@@ -1,0 +1,5 @@
+@16/02.1: Conceptual diagram created.
+
+.Its important to know that the multivalued atr's relationship is 1:1 because for
+each station there is only one location.
+.A single station can belong to multiple lines (San Antonio .i.e.)
